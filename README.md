@@ -1,6 +1,6 @@
 # EXTRACT TEXT FROM IMAGE FOR FREE WITHOUT INSTALLATION!
 
-Notebook for extracting text from image easy and for free without installation tesseract or another software, using https://ocr.space/ocrapi API and python.
+Notebook for extracting text from image easyly and for free without installation tesseract or another software, using https://ocr.space/ocrapi API and python.
 
 ## How to use
 
